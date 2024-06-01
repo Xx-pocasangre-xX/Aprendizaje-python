@@ -4,9 +4,12 @@
 """string en multiplies lineas"""
 ''''string en multiplies lineas'''
 
+#numeros enteros
 40
 
+#numero float
 40.2
 
+#numeros booleanos
 True
 False

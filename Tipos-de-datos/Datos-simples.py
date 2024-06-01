@@ -10,6 +10,6 @@
 #numero float
 40.2
 
-#numeros booleanos
+#numeros booleanos empiezan con la primera letra mayuscula
 True
 False

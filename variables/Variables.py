@@ -23,8 +23,8 @@ bienvenida = f"hola {nombre} de {edad} años de edad"
 
 #luego ya solamente imprimimos con print la variable donde tenemos el mensaje de bienvenida
 #podemos tener operadores de pertenencia con (in / not in)
-print("david" in bienvenida)
-print("david" not in bienvenida)
+print("david" in bienvenida)#true
+print("david" not in bienvenida)#false
 
 #imprimir la variable
 print(bienvenida)
